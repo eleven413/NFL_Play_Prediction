@@ -1,6 +1,6 @@
 [![Issues][issues-shield]][issues-url]
 
-<a href="https://images.saymedia-content.com/.image/t_share/MTc0NDcxNTE2MDIzNDMyNTUy/football-formations-nfl.jpg" alt="z3" border="" /></a><br />
+<a href="https://images.saymedia-content.com/.image/t_share/MTc0NDcxNTE2MDIzNDMyNTUy/football-formations-nfl.jpg"><img src="https://images.saymedia-content.com/.image/t_share/MTc0NDcxNTE2MDIzNDMyNTUy/football-formations-nfl.jpg" alt="z3" border="" /></a><br />
 *Image Source: HowTheyPlay*
 <!---
 <div align="center">
