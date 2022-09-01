@@ -9,7 +9,7 @@
   </a>
 -->
 
-<h1 align="center">NFL Play Predictor</h1>
+<h1 align="center">NFL Play Prediction</h1>
   <p align="center">
     University of Denver - Advanced Statistics & Probability II
     <br />
